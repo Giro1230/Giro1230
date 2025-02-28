@@ -48,7 +48,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div style="margin-left: 1rem; text-align: left;">
-        <img src="[https://github-readme-stats.vercel.app/api?username=Giro1230&count_private=true&show_icons=true&theme= transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=Giro1230&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giro1230&layout=compact&count_private=true&show_icons=true&theme=transparent"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giro1230&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Giro1230&show_icons=true&theme=transparent&hide="/>
     </div>
 </div>
