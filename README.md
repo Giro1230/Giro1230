@@ -51,4 +51,5 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giro1230&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
         <img src="https://github-readme-stats.vercel.app/api?username=Giro1230&show_icons=true&theme=transparent&hide="/>
     </div>
+    <a href="https://vibrary.dev/u/giro1230?ref=readme"><img src="https://vibrary.dev/card/giro1230.png?lang=ko" width="100%" alt="giro1230 — verified AI builder profile on Vibrary" /></a>
 </div>
